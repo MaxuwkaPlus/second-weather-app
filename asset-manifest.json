@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/second-weather-app/static/css/main.4ce8441c.css",
-    "main.js": "/second-weather-app/static/js/main.ca2caa98.js",
+    "main.js": "/second-weather-app/static/js/main.bc33afce.js",
     "index.html": "/second-weather-app/index.html",
     "main.4ce8441c.css.map": "/second-weather-app/static/css/main.4ce8441c.css.map",
-    "main.ca2caa98.js.map": "/second-weather-app/static/js/main.ca2caa98.js.map"
+    "main.bc33afce.js.map": "/second-weather-app/static/js/main.bc33afce.js.map"
   },
   "entrypoints": [
     "static/css/main.4ce8441c.css",
-    "static/js/main.ca2caa98.js"
+    "static/js/main.bc33afce.js"
   ]
 }
